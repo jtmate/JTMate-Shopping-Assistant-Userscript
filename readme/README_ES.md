@@ -17,19 +17,16 @@ JTMate Shopping Assistant Userscript es un script oficial desarrollado por Jtmat
 
 A continuación se muestran los enlaces de instalación de gestores de userscripts comunes:
 
-**Tampermonkey**
+**Tampermonkey**  
+Chrome：https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo  
+Edge：https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd  
+Firefox：https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/  
+Safari：https://apps.apple.com/us/app/tampermonkey-classic/id1482490089?mt=12  
 
-Chrome：https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-Edge：https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd
-Firefox：https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
-Safari：https://apps.apple.com/us/app/tampermonkey-classic/id1482490089?mt=12
+**Violentmonkey**  
+Chrome：https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag  
+Edge：https://microsoftedge.microsoft.com/addons/detail/violentmonkey/eeagobfjdenkkddmbclomhiblgggliao  
 
-**Violentmonkey**
-
-Chrome：https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
-Edge：https://microsoftedge.microsoft.com/addons/detail/violentmonkey/eeagobfjdenkkddmbclomhiblgggliao
-
-**ScriptCat**
-
-Chrome：https://chromewebstore.google.com/detail/scriptcat/ndcooeababalnlpkfedmmbbbgkljhpjf
-Edge：https://microsoftedge.microsoft.com/addons/detail/scriptcat/liilgpjgabokdklappibcjfablkpcekh
+**ScriptCat**  
+Chrome：https://chromewebstore.google.com/detail/scriptcat/ndcooeababalnlpkfedmmbbbgkljhpjf  
+Edge：https://microsoftedge.microsoft.com/addons/detail/scriptcat/liilgpjgabokdklappibcjfablkpcekh  
