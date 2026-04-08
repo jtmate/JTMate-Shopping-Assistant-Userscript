@@ -1,6 +1,9 @@
 ### About
 JTMate Shopping Assistant Userscript is an official script developed by Jtmate to help users use Jtmate more conveniently and efficiently, enabling a faster and smoother coupon search and cashback experience.
 
+### Install
+<a href="https://static.xiaokesoso.com/script/update/jtmate.coupon.user.js"><img class="js-lazy-loaded" decoding="async" data-canonical-src="https://img.shields.io/badge/Install the Latest Version-005200" height="50px" src="https://img.shields.io/badge/Install the Latest Version-005200" loading="lazy" data-testid="js-lazy-loaded-content"></a>
+
 ### Feature
 -   **Automatic Savings** – Instantly finds and applies the best available coupon codes at checkout.
 -   **Browsing History Insights** – Track Amazon product history easily to make smarter purchasing decisions.
