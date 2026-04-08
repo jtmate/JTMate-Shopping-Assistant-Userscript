@@ -28,5 +28,5 @@ Chrome：https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegedn
 Edge：https://microsoftedge.microsoft.com/addons/detail/violentmonkey/eeagobfjdenkkddmbclomhiblgggliao  
 
 **ScriptCat**  
-Chrome：https://chromewebstore.google.com/detail/scriptcat/ndcooeababalnlpkfedmmbbbgkljhpjf
-Edge：https://microsoftedge.microsoft.com/addons/detail/scriptcat/liilgpjgabokdklappibcjfablkpcekh
+Chrome：https://chromewebstore.google.com/detail/scriptcat/ndcooeababalnlpkfedmmbbbgkljhpjf  
+Edge：https://microsoftedge.microsoft.com/addons/detail/scriptcat/liilgpjgabokdklappibcjfablkpcekh  
