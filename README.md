@@ -1,3 +1,5 @@
+[English](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/README.md) | [简体中文](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/readme/README_ZH_CN.md) | [繁体中文](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/readme/README_ZH_TW.md)
+
 ### About
 JTMate Shopping Assistant Userscript is an official script developed by Jtmate to help users use Jtmate more conveniently and efficiently, enabling a faster and smoother coupon search and cashback experience.
 
