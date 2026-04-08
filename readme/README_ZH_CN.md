@@ -1,3 +1,5 @@
+[English](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/README.md) | [简体中文](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/readme/README_ZH_CN.md) | [繁体中文](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/readme/README_ZH_TW.md)
+
 ### 关于
 
 JTMate 购物助手 Userscript 是由 Jtmate 官方开发的脚本，旨在帮助用户更方便、高效地使用 Jtmate，实现更快速、更顺畅的优惠券搜索和返现体验。
