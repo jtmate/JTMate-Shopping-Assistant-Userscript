@@ -1,4 +1,4 @@
-[English](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/README.md) | [简体中文](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/readme/README_ZH_CN.md) | [繁体中文](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/readme/README_ZH_TW.md)
+[English](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/README.md) | [Русский](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/readme/README_RU.md) | [日本語](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/readme/README_JA.md) | [한국어](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/readme/README_KO.md) | [Español](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/readme/README_ES.md) | [Français](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/readme/README_FR.md) | [简体中文](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/readme/README_ZH_CN.md) | [繁体中文](https://github.com/jtmate/JTMate-Shopping-Assistant-Userscript/blob/main/readme/README_ZH_TW.md)
 
 ### 关于
 
